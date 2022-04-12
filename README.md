@@ -5,4 +5,4 @@ NO CATS ALLOWED !
 
 This site was made during the course "The Complete 2022 Web Development Bootcamp” by Dr. Angela Yu.
 
-Made up from CSS,HTML and BOOTSTRAP 5.
+Made up with CSS,HTML and BOOTSTRAP 5.
